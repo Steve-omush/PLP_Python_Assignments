@@ -1,0 +1,12 @@
+# IDE Folders
+.vscode/
+.idea/
+*.suo
+
+
+# Environment files
+.env
+.env.local
+/.env.*.local
+venv/
+__pycache__/
